@@ -1,4 +1,4 @@
 HELLO WORLD
-Halló heimur
-HEJ VERDEN
+Halló heimur?
+HEJ VERDEN?
 Hallo Welt
